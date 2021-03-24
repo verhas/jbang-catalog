@@ -2,7 +2,7 @@
   "catalogs": {},
   "aliases": {
     "jamal": {
-      "script-ref": "https://raw.githubusercontent.com/verhas/jamal/debugger/jbangstarter.java"
+      "script-ref" : "https://raw.githubusercontent.com/verhas/jamal/master/jbangstarter.java"
     }
   },
   "templates": {}
