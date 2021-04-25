@@ -1,2 +1,2 @@
 # jbang-catalog
-jBang Catalogue
+jBang Catalog
